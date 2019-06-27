@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2017\Projects\Grammar\Grammar\bin\Debug\Grammar.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Grammar\Grammar\bin\Debug\Grammar.exe
+c:\users\hp\documents\visual studio 2017\Projects\Grammar\Grammar\bin\Debug\Grammar.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Grammar\Grammar\obj\Debug\Grammar.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Grammar\Grammar\obj\Debug\Grammar.exe
+c:\users\hp\documents\visual studio 2017\Projects\Grammar\Grammar\obj\Debug\Grammar.pdb

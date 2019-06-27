@@ -1,0 +1,6 @@
+c:\Users\HP\documents\visual studio 2017\Projects\Grammar\IntermediateCodeGenerator\bin\Debug\IntermediateCodeGenerator.exe.config
+c:\Users\HP\documents\visual studio 2017\Projects\Grammar\IntermediateCodeGenerator\bin\Debug\IntermediateCodeGenerator.exe
+c:\Users\HP\documents\visual studio 2017\Projects\Grammar\IntermediateCodeGenerator\bin\Debug\IntermediateCodeGenerator.pdb
+c:\Users\HP\documents\visual studio 2017\Projects\Grammar\IntermediateCodeGenerator\obj\Debug\IntermediateCodeGenerator.csprojResolveAssemblyReference.cache
+c:\Users\HP\documents\visual studio 2017\Projects\Grammar\IntermediateCodeGenerator\obj\Debug\IntermediateCodeGenerator.exe
+c:\Users\HP\documents\visual studio 2017\Projects\Grammar\IntermediateCodeGenerator\obj\Debug\IntermediateCodeGenerator.pdb
